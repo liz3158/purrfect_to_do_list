@@ -43,10 +43,10 @@ flutter run
 ## 🎨 App Screenshots
 
 ### Home Screen
-![Home Screen](assets/page1.png)
+<img src="assets/page1.png" alt="Home Screen" width="300"/>
 
 ### Add Task
-![Add Task](assets/page2.png)
+<img src="assets/page2.png" alt="Add Task" width="300"/>
 
 ## 🛠️ Built With
 
