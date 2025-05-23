@@ -22,12 +22,12 @@ A delightful and purr-fectly organized task management app with a cute cat theme
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/purrfect-tasks.git
+git clone https://github.com/liz3158/purrfect_to_do_list.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd purrfect-tasks
+cd purrfect_to_do_list
 ```
 
 3. Install dependencies:
