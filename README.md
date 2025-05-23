@@ -42,9 +42,11 @@ flutter run
 
 ## 🎨 App Screenshots
 
-```
-[Add your app screenshots here]
-```
+### Home Screen
+![Home Screen](assets/page1.png)
+
+### Add Task
+![Add Task](assets/page2.png)
 
 ## 🛠️ Built With
 
