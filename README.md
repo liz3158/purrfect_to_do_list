@@ -93,4 +93,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to all the cats that inspired this project 😺
 
 ---
-Made with 💛 and 🐱 by [Your Name]
+Made with 💛 and 🐱 by liz3158
